@@ -7,3 +7,7 @@ https://linux.how2shout.com/how-to-install-apache-server-on-ubuntu-24-04-noble-l
 
 https://www.groveld.com/articles/give-user-permission-to-edit-and-add-files-in-var-www
 
+## Setup Wordpress on Amazon Linux 2
+
+https://docs.aws.amazon.com/linux/al2/ug/hosting-wordpress.html
+
